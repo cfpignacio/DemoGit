@@ -2,3 +2,7 @@ Manuel
 Agustin
 Pedro
 Ana
+<<<<<<< HEAD
+=======
+Carlos
+>>>>>>> 485a4179c93ade11ea0f5a85dc05499c06abd30f
